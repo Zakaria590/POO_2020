@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Switch
+comment0.text=\n\ Write\ a\ description\ of\ class\ Switch\ here.\n\n\ @author\ (Salah\ Zakaria\ OUAICHOUCHE)\n\ @version\ (03.02.2020)\n
+comment1.params=lightbulb
+comment1.target=Switch(Lightbulb)
+comment1.text=\n\ Builds\ a\ switch\ for\ the\ lightbulb\n
+comment2.params=
+comment2.target=void\ switchOnOff()
+comment2.text=\n\ switch\ on\ and\ off\ the\ lightbulb\n
+numComments=3

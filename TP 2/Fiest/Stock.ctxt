@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Stock
+comment0.text=\n\ Write\ a\ description\ of\ class\ Stock\ here.\n\n\ @author\ (OUAICHOUCHE)\n\ @version\ (1.0)\n
+comment1.params=x
+comment1.target=Stock(int)
+comment2.params=
+comment2.target=Stock()
+comment3.params=
+comment3.target=int\ getQuantity()
+comment3.text=\n\ Return\ the\ quantity\ of\ this\ stock\n\ \n\ @return\ the\ quantity\ of\ this\ stock\ \n
+comment4.params=x
+comment4.target=void\ add(int)
+comment4.text=\n\ Add\ the\ parameter\ at\ the\ quantity\ of\ this\ stock\n
+comment5.params=x
+comment5.target=int\ remove(int)
+comment5.text=\n\ Remove\ the\ parameter\ at\ the\ quantity\ of\ this\ stock\n\ \n\ @return\ Return\ the\ quantity\ remove\ in\ stock\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ Return\ the\ quantity\ in\ string\n\ \n\ @return\ Return\ the\ quantity\ in\ string\n
+numComments=7

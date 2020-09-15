@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"battleship.util","l":"Answer"},{"p":"battleship","l":"BattleshipMain"},{"p":"battleship","l":"Cell"},{"p":"battleship","l":"Game"},{"p":"battleship","l":"GameMain"},{"p":"battleship.util","l":"Input"},{"p":"battleship.util","l":"Position"},{"p":"battleship","l":"Sea"},{"p":"battleship","l":"Ship"}]
